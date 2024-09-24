@@ -1,0 +1,59 @@
+{
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "width": 800,
+      "height": 1000,
+      "data": {
+            "url": "data/Life_Expectancy_at_Birth.csv",
+            "format": {
+                  "type": "csv"
+            }
+      },
+      "params": [
+            {
+                  "name": "life_expectancy_select",
+                  "value": 60,
+                  "bind": {
+                        "input": "range",
+                        "min": 50,
+                        "max": 90,
+                        "step": 1,
+                        "name": "Life Expectancy more than: "
+                  }
+            }
+      ],
+      "transform": [
+            {
+                  "filter": "datum['Life Expectancy at Birth (2021)'] >= life_expectancy_select"
+            }
+      ],
+      "mark": "bar",
+      "encoding": {
+            "y": {
+                  "field": "Country",
+                  "type": "nominal",
+                  "sort": "-x",
+                  "axis": {
+                        "title": "Country"
+                  }
+            },
+            "x": {
+                  "field": "Life Expectancy at Birth (2021)",
+                  "type": "quantitative",
+                  "axis": {
+                        "title": "Life Expectancy (2021)"
+                  }
+            },
+            "tooltip": [
+                  {
+                        "field": "Country",
+                        "type": "nominal",
+                        "title": "Country"
+                  },
+                  {
+                        "field": "Life Expectancy at Birth (2021)",
+                        "type": "quantitative",
+                        "title": "Life Expectancy"
+                  }
+            ]
+      }
+}

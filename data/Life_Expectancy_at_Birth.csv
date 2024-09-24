@@ -1,0 +1,196 @@
+ISO3,Country,Life Expectancy at Birth (2021)
+AFG,Afghanistan,61.9824
+AGO,Angola,61.6434
+ALB,Albania,76.4626
+AND,Andorra,80.3684
+ARE,United Arab Emirates,78.7104
+ARG,Argentina,75.3899
+ARM,Armenia,72.0431
+ATG,Antigua and Barbuda,78.4968
+AUS,Australia,84.5265
+AUT,Austria,81.5797
+AZE,Azerbaijan,69.3658
+BDI,Burundi,61.6627
+BEL,Belgium,81.8787
+BEN,Benin,59.821
+BFA,Burkina Faso,59.2696
+BGD,Bangladesh,72.3811
+BGR,Bulgaria,71.798
+BHR,Bahrain,78.7605
+BHS,Bahamas,71.5983
+BIH,Bosnia and Herzegovina,75.3003
+BLR,Belarus,72.438
+BLZ,Belize,70.4697
+BOL,Bolivia,63.6304
+BRA,Brazil,72.7504
+BRB,Barbados,77.5714
+BRN,Brunei,74.6424
+BTN,Bhutan,71.815
+BWA,Botswana,61.1409
+CAF,Central African Republic,53.8947
+CAN,Canada,82.6565
+CHE,Switzerland,83.9872
+CHL,Chile,78.9435
+CHN,China,78.2107
+CIV,Ivory Coast,58.5983
+CMR,Cameroon,60.3334
+COD,The Democratic Republic of the Congo,59.193
+COG,Congo,63.5187
+COL,Colombia,72.8296
+COM,Comoros,63.4174
+CPV,Cabo Verde,74.0518
+CRI,Costa Rica,77.0232
+CUB,Cuba,73.6829
+CYP,Cyprus,81.2033
+CZE,Czechia,77.7283
+DEU,Germany,80.6301
+DJI,Djibouti,62.3049
+DMA,Dominica,72.814
+DNK,Denmark,81.3753
+DOM,Dominican Republic,72.6146
+DZA,Algeria,76.3767
+ECU,Ecuador,73.67
+EGY,Egypt,70.2207
+ERI,Eritrea,66.5358
+ESP,Spain,83.01
+EST,Estonia,77.1436
+ETH,Ethiopia,64.9748
+FIN,Finland,82.0381
+FJI,Fiji,67.114
+FRA,France,82.4988
+FSM,Micronesia,70.71
+GAB,Gabon,65.821
+GBR,United Kingdom,80.7422
+GEO,Georgia,71.694
+GHA,Ghana,63.7954
+GIN,Guinea,58.8922
+GMB,Gambia,62.083
+GNB,Guinea-Bissau,59.6523
+GNQ,Equatorial Guinea,60.5943
+GRC,Greece,80.1106
+GRD,Grenada,74.9362
+GTM,Guatemala,69.2368
+GUY,Guyana,65.6734
+HKG,Hong Kong,85.4734
+HND,Honduras,70.1229
+HRV,Croatia,77.5804
+HTI,Haiti,63.1924
+HUN,Hungary,74.5301
+IDN,Indonesia,67.5703
+IND,India,67.2398
+IRL,Ireland,81.9976
+IRN,Iran,73.8749
+IRQ,Iraq,70.3779
+ISL,Iceland,82.6782
+ISR,Israel,82.255
+ITA,Italy,82.8502
+JAM,Jamaica,70.5003
+JOR,Jordan,74.2563
+JPN,Japan,84.7839
+KAZ,Kazakhstan,69.3622
+KEN,Kenya,61.427
+KGZ,Kyrgyzstan,69.9774
+KHM,Cambodia,69.5835
+KIR,Kiribati,67.4172
+KNA,Saint Kitts and Nevis,71.6822
+KOR,South Korea,83.6978
+KWT,Kuwait,78.6729
+LAO,Lao,68.0608
+LBN,Lebanon,75.0472
+LBR,Liberia,60.7472
+LBY,Libya,71.9112
+LCA,Saint Lucia,71.1114
+LIE,Liechtenstein,83.2575
+LKA,Sri Lanka,76.3991
+LSO,Lesotho,53.062
+LTU,Lithuania,73.7201
+LUX,Luxembourg,82.6287
+LVA,Latvia,73.5786
+MAR,Morocco,74.0419
+MCO,Monaco,85.9463
+MDA,Moldova,68.8459
+MDG,Madagascar,64.4853
+MDV,Maldives,79.9182
+MEX,Mexico,70.2127
+MHL,Marshall Islands,65.2688
+MKD,North Macedonia,73.8415
+MLI,Mali,58.9414
+MLT,Malta,83.7769
+MMR,Myanmar,65.6716
+MNE,Montenegro,76.3426
+MNG,Mongolia,70.9754
+MOZ,Mozambique,59.3247
+MRT,Mauritania,64.3636
+MUS,Mauritius,73.5552
+MWI,Malawi,62.9044
+MYS,Malaysia,74.8839
+NAM,Namibia,59.269
+NER,Niger,61.5763
+NGA,Nigeria,52.676
+NIC,Nicaragua,73.8368
+NLD,Netherlands,81.6873
+NOR,Norway,83.2339
+NPL,Nepal,68.4495
+NRU,Nauru,63.617
+NZL,New Zealand,82.4513
+OMN,Oman,72.5406
+PAK,Pakistan,66.0979
+PAN,Panama,76.2233
+PER,Peru,72.3769
+PHL,Philippines,69.2664
+PLW,Palau,66.0204
+PNG,Papua New Guinea,65.3506
+POL,Poland,76.4572
+PRK,North Korea,73.2845
+PRT,Portugal,81.0443
+PRY,Paraguay,70.2617
+PSE,"Palestine, State of",73.4727
+QAT,Qatar,79.2716
+ROU,Romania,74.1847
+RUS,Russian Federation,69.419
+RWA,Rwanda,66.0722
+SAU,Saudi Arabia,76.936
+SDN,Sudan,65.2667
+SEN,Senegal,67.0926
+SGP,Singapore,82.7545
+SLB,Solomon Islands,70.3477
+SLE,Sierra Leone,60.0624
+SLV,El Salvador,70.7479
+SMR,San Marino,80.8786
+SOM,Somalia,55.2803
+SRB,Serbia,74.1923
+SSD,South Sudan,54.9752
+STP,Sao Tome and Principe,67.5912
+SUR,Suriname,70.2743
+SVK,Slovakia,74.9101
+SVN,Slovenia,80.6904
+SWE,Sweden,82.9833
+SWZ,Eswatini,57.0657
+SYC,Seychelles,71.2945
+SYR,Syrian Arab Republic,72.0627
+TCD,Chad,52.5254
+TGO,Togo,61.6194
+THA,Thailand,78.7154
+TJK,Tajikistan,71.5942
+TKM,Turkmenistan,69.2644
+TLS,Timor-Leste,67.7369
+TON,Tonga,70.9857
+TTO,Trinidad and Tobago,72.9709
+TUN,Tunisia,73.7719
+TUR,Turkey,76.0324
+TUV,Tuvalu,64.5466
+TZA,Tanzania,66.2007
+UGA,Uganda,62.7048
+UKR,Ukraine,71.624
+URY,Uruguay,75.4356
+USA,United States,77.1982
+UZB,Uzbekistan,70.8616
+VCT,Saint Vincent and the Grenadines,69.6291
+VEN,Venezuela,70.5536
+VNM,Viet Nam,73.6181
+VUT,Vanuatu,70.449
+WSM,Samoa,72.7675
+YEM,Yemen,63.7534
+ZAF,South Africa,62.341
+ZMB,Zambia,61.2234
+ZWE,Zimbabwe,59.2531

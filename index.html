@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Import Vega & Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all" />
+
+    <style>
+      /* Flexbox layout to place map and bar chart side by side */
+      .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%; /* Container takes the full width */
+      }
+
+      #symbol_map {
+        width: 70%; /* Make the map take 70% of the page width */
+        height: 100vh; /* Full viewport height */
+      }
+
+      #bar_chart {
+        width: 30%; /* Make the bar chart take 30% of the page width */
+        height: 100vh; /* Full viewport height */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Container for map and bar chart -->
+    <div class="container">
+      <!-- Div for symbol map -->
+      <div id="symbol_map"></div>
+
+      <!-- Div for bar chart -->
+      <div id="bar_chart"></div>
+    </div>
+
+    <script type="text/javascript">
+      // Embed symbol map (population map)
+      var spec2 = "js/population_map.vg.json";
+      vegaEmbed("#symbol_map", spec2)
+        .then(function (result) {
+          // Access the Vega view instance as result.view
+        })
+        .catch(console.error);
+
+      // Embed bar chart (population bar)
+      var spec1 = "js/population_bar.vg.json";
+      vegaEmbed("#bar_chart", spec1)
+        .then(function (result) {
+          // Access the Vega view instance as result.view
+        })
+        .catch(console.error);
+    </script>
+  </body>
+</html>
